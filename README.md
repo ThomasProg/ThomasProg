@@ -18,5 +18,5 @@
 I can also do some other things, contact me if you're interested!
 
 # Other :
-I make videos on programming in my free time, check it out!
+I make videos on programming in my free time, check it out!\
 My youtube channel : https://www.youtube.com/c/ProgZ?sub_confirmation=1
