@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**ThomasProg/ThomasProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Main languages :
+- C++
+- C# 
+- C
+- Python
+- Java
 
-Here are some ideas to get you started:
+# What I'm good at :
+- Rendering (OpenGL / Vulkan) (GLSL / HLSL)
+- Engine Architecture 
+- Algorithms (leetcode / france ioi)
+- Making games (Unity / Unreal Engine 4/5)
+- GUI (+ optimizations)
+- Multithreading
+- Networking
+- Artificial Intelligence 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can also do some other things, contact me if you're interested!
+
+# Other :
+I make videos on programming in my free time, check it out!
+My youtube channel : https://www.youtube.com/c/ProgZ?sub_confirmation=1
