@@ -1,11 +1,13 @@
-# Main languages :
+# Thomas here! :wave:
+
+## Main languages :
 - C++
 - C# 
 - C
 - Python
 - Java
 
-# What I'm good at :
+## What I'm good at :
 - Rendering (OpenGL / Vulkan) (GLSL / HLSL)
 - Engine Architecture 
 - Algorithms (leetcode / france ioi)
@@ -17,5 +19,8 @@
 
 I can also do some other things, contact me if you're interested!
 
-# Other :
-I make videos on programming in my free time, [check it out](https://www.youtube.com/c/ProgZ?sub_confirmation=1)!
+## Other :
+
+Checkout my [website](https://thomasprog.github.io/)! 
+
+I make videos on programming in my free time, [check them out](https://www.youtube.com/c/ProgZ?sub_confirmation=1)!
