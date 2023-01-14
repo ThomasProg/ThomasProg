@@ -1,4 +1,4 @@
-# Thomas here! :wave:
+# Thomas there! :wave:
 
 ## Main languages :
 - C++
